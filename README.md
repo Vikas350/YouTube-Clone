@@ -14,7 +14,7 @@
 
 ## Links
 ### - [Source Code](https://github.com/Vikas350/YouTube-Clone)
-### - [Live Link](https://vikas-youtube-clone.netlify.app/)
+### - Live Link (remove due to high api calls)
 
 ## Highlights
 ### Desktop homepage
